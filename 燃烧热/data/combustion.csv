@@ -1,0 +1,3 @@
+filename,Start 1,End 1,Start 2,End 2,T_left(K),T_right(K),room_temperature(K),water_volume(mL),water_density(g/mL),water_capacity(J/gK),combustible_mass(g),cotton_mass(g),Nickel_before_mass(g),Nickel_after_mass(g),benzoic_enthalpy(kJ/mol),cotton_heat(J/g),Nickel_heat(J/g),constant(J/K),combustion_heat(J/g)
+20231214142329combustiondata.csv,0,411,895,1471,0.04938364944798265,1.5805154496303018,289.15,3000.0,0.9989459,4.1875,0.8672,0.0262,0.010,0.0021,-3228.2,-16736,-3243,2267.8,0
+20231214151540combustiondata.csv,0,333,882,1769,0.017355458526215135,1.9719004580103334,288.46,500.0,0.9990553,4.1882,1.7283,0.0132,0.0096,0.0043,-3228.2,-16736,-3243,,
